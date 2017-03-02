@@ -1,0 +1,27 @@
+{
+  "name": "yeoman-extra",
+  "version": "0.0.0",
+  "description": "Some extra stuff for yeoman",
+  "license": "MIT",
+  "repository": "erandros/yeoman-extra",
+  "author": {
+    "name": "erandros",
+    "email": "guidotarsia@gmail.com",
+    "url": "github.com/erandros/yeoman-extra"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "deep-extend": "^0.4.1",
+    "handlebars": "^4.0.6",
+    "hogan.js": "^3.0.2"
+  },
+  "devDependencies": {}
+}
